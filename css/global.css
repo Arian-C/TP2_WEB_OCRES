@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'My Lucida';
     src: url('../font/LucidaGrande.ttf');
-    font-style: normal; 
+    font-style: normal;
     font-weight: bold;
 }
 
@@ -11,6 +11,7 @@
 
 body {
     background: linear-gradient(to bottom, #efefef, white) no-repeat;
+    display: flex;
 }
 
 a {
@@ -97,6 +98,7 @@ h1 {
 
 .name p img { 
     margin-left: 12px;
+    
 }
 
 
